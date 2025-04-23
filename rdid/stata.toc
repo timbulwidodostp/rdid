@@ -1,0 +1,9 @@
+v 1.8.5
+d Materials by Kyunghoon Ban
+d Rochester Institute of Technology
+d kban@saunders.rit.edu
+d https://github.com/KyunghoonBan/rdid
+
+d 'rdid': implement the robust difference-in-differences (RDID) framework for both the canonical 2 by 2 DID settings and staggered adoption designs.
+
+p rdid
